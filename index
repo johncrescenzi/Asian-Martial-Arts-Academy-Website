@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<head>
+	<title>Asian Martial Arts Academy</title>
+<link rel="stylesheet" type="text/css"
+	href="style.css"/>
+	<h1>Asian Martial Arts Academy</h1>
+</head>
+<body>
+	<br />
+	<br />
+	<br />
+<div id="content">
+	<div id="header">
+		<div id="nav">
+			<ul>
+				<li class="navTop"><a href="#Location">Location</a></li>
+				<li class="navTop"><a href="#Classes">Classes</a></li>
+				<li class="navTop"><a href="#Schedule">Schedule</a></li>			
+				<li class="navTop"><a href="#Pricing">Pricing</a></li>
+				<li class="navTop"><a href="#Instructors">Instructors</a></li>
+				<li class="navTop"><a href="#Contact">Contact</a></li>
+			</ul>
+		</div>
+	</div>
+<div id="feature">
+	<p>This is where the picture slideshow will go</p>
+</div>
+<div class="article column1" id="locationBox">
+	<h2 id="Location">Location</h2>
+		<p>
+		<acronym title="Asian Martial Arts Academy">AMAA</acronym> is a martial arts and fitness center located in the Upper Orchard section of Levittown, PA
+		</p>		
+			<iframe
+			width="400" height="200" frameborder="0" scrolling="no" align="center"
+			src="https://www.google.com/maps?q=1221+oakland+avenue+levittown+pa&amp;output=embed">
+			</iframe>
+		<br />
+</div>
+	<div class="article column2" id="classesBox">
+		<h2 id="Classes">Classes</h2>
+			<ul>
+				<li><a href="http://en.wikipedia.org/wiki/Chinese_martial_arts">Kung Fu</a> Classes</p>
+					<ul>
+						<li><a href="http://www.mantiskungfu.com/praying_mantis_kung_fu_complete_system.php">Seven Star</a></li>
+						<li><a href="http://en.wikipedia.org/wiki/Shaolin_Kung_Fu">Shaolin</a></li>
+					</ul>
+					<br />
+				<li>Workout Class</li>
+			</ul>
+		</div>
+	<div class="article column3" id="scheduleBox">
+		<h2 id="Schedule">Schedule</h2>
+			<table>
+			<tr>
+				<th></th>
+				<th>6:00</th>
+				<th>6:30</th>
+				<th>7:00</th>
+				<th>7:30</th>
+				<th>8:00</th>
+				<th>8:30</th>
+				<th>9:00</th>
+				<th>9:30</th>
+				<th>10:00</th>
+			</tr>
+			<tr>
+				<th>Monday</th>
+				<td colspan="2">Workout Class</td>
+				<td>-</td>
+				<td colspan="3">Seven Star Kung Fu</td>
+				<td colspan="2">Workout Class</td>
+			</tr>
+			<tr>
+				<th>Tuesday</th>
+				<td colspan="2">Workout Class</td>
+				<td colspan="4">Shaolin Kung Fu</td>
+				<td colspan="2">Workout Class</td>
+			</tr>
+			<tr>
+				<th>Wednesday</th>
+				<td colspan="2">Workout Class</td>
+				<td>-</td>
+				<td colspan="3">Seven Star Kung Fu</td>
+				<td colspan="2">Workout Class</td>
+			</tr>
+			<tr>
+				<th>Thursday</th>
+				<td colspan="2">Workout Class</td>
+				<td colspan="4">Shaolin Kung Fu</td>
+				<td colspan="2">Workout Class</td>
+			</tr>
+			<tr>
+				<th>Friday</th>
+				<td colspan="2">Workout Class</td>
+				<td>-</td>
+				<td>-</td>
+				<td>-</td>
+				<td>-</td>
+				<td colspan="2">Workout Class</td>
+			</tr>
+			</table>
+		</div>
+	<div class="article column4" id="pricingBox">
+		<h2 id="Pricing">Pricing</h2>
+			<ul>
+				<li>Seven Star Kung Fu
+					<ul>$85/month</ul>
+				<li>Shaolin Kung Fu
+					<ul>$x/month</ul>
+				<li>Workout Class
+					<ul>$400/10 weeks</ul>
+			</ul>
+	</div>
+	<div class="article column5" id="instructorsBox">
+		<h2 id="Instructors">Instructors</h2>
+			<ul>
+				<li><i>Sifu</i> Jack
+					<ul>
+						<li>X years of Kung Fu</li>
+						<li>Teaches <b>Seven Star Kung Fu</b> and the <b>Workout Class</b></li>
+					</ul>
+				</li>
+				<br />
+				<li><i>Chaantsu</i> Ishmael
+					<ul>
+						<li>X years of Kung Fu</li>
+						<li>Teaches <b>Shaolin Kung Fu</b></li>
+					</ul>
+				</li>
+			</ul>
+	</div>
+	<div class="article column6" id=contactBox>
+		<h2 id="Contact">Contact</h2>
+			<p>Phone: (215) 547-4051<br />
+				<a href="mailto:EMAIL.COM">Email</a><br />
+				<br />
+				<br />
+			</p>
+	</div>
+	<div id="footer">
+	<p>
+	<a href="#top">Top</a><br />
+	Website made by <strong>John Crescenzi</strong><br />
+	Contact at <a href="mailto:John.Crescenzi@temple.edu">John.Crescenzi@temple.edu</a></li>
+	</p>
+	</div>
+</div>
+</body>
